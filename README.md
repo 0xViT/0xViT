@@ -1,2 +1,2 @@
-👋 Hi, I’m Luca Vitaloni
-🌱 I’m currently learning Frontend development ...
+- 👋 Hi, I’m Luca Vitaloni
+- 🌱 I’m currently learning Frontend development
